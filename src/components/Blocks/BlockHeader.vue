@@ -8,7 +8,7 @@
     </div>
     <div class="col-md-auto logotype">
       <span class="hr animate__animated animate__fadeInUp">|</span>
-      <img class="logo animate__animated animate__fadeInUp" src="../../../src/assets/agava.svg" />
+      <img class="logo animate__animated animate__fadeInUp" src="../../../src/assets/BONCH.svg" />
       <span class="hr animate__animated animate__fadeInUp">|</span>
       <h1 class="heading animate__animated animate__fadeInUp">Monitoring</h1>
     </div>
